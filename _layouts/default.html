@@ -2,9 +2,13 @@
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
     
-    
-챗봇삽입
-
+    <script src="https://www.gstatic.com/dialogflow-console/fast/messenger/bootstrap.js?v=1"></script>
+<df-messenger
+  intent="WELCOME"
+  chat-title="바람식당 라면주문봇"
+  agent-id="de67c5ff-3382-4622-914c-01047b528992"
+  language-code="ko"
+></df-messenger>
     
 <style>
   df-messenger {
