@@ -1,12 +1,12 @@
-## Welcome to GitHub Pages
+## 바람 강사의 깃헛 페이지에 오신것을 환영합니다.
 
 You can use the [editor on GitHub](https://github.com/mentor1004/chatbot/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### 챗봇
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+라면주문 챗봇을 만들어봐요
 
 ```markdown
 Syntax highlighted code block
