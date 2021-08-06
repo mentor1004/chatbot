@@ -4,7 +4,8 @@ You can use the [editor on GitHub](https://github.com/mentor1004/chatbot/edit/ma
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-![Image](https://user-images.githubusercontent.com/79255072/128495148-363b11fa-ffca-46c2-8f1a-2cc87a267c4b.png {:width="200" height="300"})
+![Image](https://user-images.githubusercontent.com/79255072/128495148-363b11fa-ffca-46c2-8f1a-2cc87a267c4b.png){:width="200" height="300"}
+
 
 🍝 라면주문 챗봇을 만들어봐요
 
