@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ![Image](https://github.com/mentor1004/chatbot/issues/1#issue-962553432)
 
-라면주문 챗봇을 만들어봐요
+🍝 라면주문 챗봇을 만들어봐요
 
 ```markdown
 Syntax highlighted code block
