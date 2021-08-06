@@ -1,4 +1,4 @@
-## 바람 강사의 깃헛 페이지에 오신것을 환영합니다.
+## **바람** 강사의 깃헛 페이지에 오신것을 환영합니다.
 
 👩‍🦰 You can use the [editor on GitHub](https://github.com/mentor1004/chatbot/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
